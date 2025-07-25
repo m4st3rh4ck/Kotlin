@@ -7,4 +7,5 @@ fun main(){
     println("En este momento tengo ${edad} años")
     printn("Mido ${altura}")
     prinntl("Soy mayor de edad: ${mayorEdad}")
+    //Comentario de prueba
 }
